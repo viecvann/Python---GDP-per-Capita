@@ -1,4 +1,4 @@
-# Python---GDP-per-Capita
+# Python - GDP-per-Capita
 In this project I will go through the GDP per Capita of countries, creating data visualisations and conducting Exploratory Data Analysis, including:
   - IMF world estimates and Worldbank estimates
   - Data cleaning and validation
